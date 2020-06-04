@@ -9,7 +9,6 @@ import Tutorial60974Navigator from '../features/Tutorial60974/navigator';
 import Maps60953Navigator from '../features/Maps60953/navigator';
 import ArticleList60950Navigator from '../features/ArticleList60950/navigator';
 import Maps60593Navigator from '../features/Maps60593/navigator';
-import ArticleList60590Navigator from '../features/ArticleList60590/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
@@ -30,7 +29,6 @@ Tutorial60974: { screen: Tutorial60974Navigator },
 Maps60953: { screen: Maps60953Navigator },
 ArticleList60950: { screen: ArticleList60950Navigator },
 Maps60593: { screen: Maps60593Navigator },
-ArticleList60590: { screen: ArticleList60590Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
